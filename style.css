@@ -1,0 +1,27 @@
+* {
+  box-sizing: border-box;
+}
+
+  header {
+    text-align: center;
+    padding: 30px;
+  }
+  
+  .ME:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+z
+  .Personal {
+    float: left;
+    width: 50%;
+    padding: 12px;
+    min-height: 700px; 
+  }
+  .Dreamjob {
+    text-align:left;
+    width: 60px%;
+  display: grid;
+   overflow:auto;
+  }

@@ -1,27 +1,23 @@
-* {
-  box-sizing: border-box;
-}
-
-  header {
+header {
     text-align: center;
     padding: 30px;
   }
   
-  .ME:after {
-    content: "";
-    display: table;
-    clear: both;
-  }
-z
+ 
   .Personal {
+    text-align: left;
     float: left;
     width: 50%;
     padding: 12px;
-    min-height: 700px; 
+    height: 70%;
+    margin-left:auto;
   }
   .Dreamjob {
-    text-align:left;
+    
+    text-align:center;
     width: 60px%;
   display: grid;
-   overflow:auto;
+   
+   height: 100%;
+   margin-right: auto;
   }
